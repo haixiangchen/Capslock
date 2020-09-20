@@ -42,7 +42,7 @@
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/haixiang7c6/Capslock/master/mac/capslock.json
 ```
 
 ```bash
@@ -106,7 +106,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Mousekey
 
 * Emulate mouse with keyboard
-* Also can be achieved by `⌥` with `HJKL`
+* Also can be archived by `⌥`  with `HJKL`
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
@@ -160,15 +160,16 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to                 | Comment                                         |
 | ------ | ----------------------- | ----------------------------------------------- |
-| `E`    | Open Safari             | Open Web Browser                                |
-| `⌘E`   | Open Finder             | Open File Browser                               |
+| `E`              | Open Safari             | Open Web Browser                         |
+| `⌘E`             | Open Finder             | Open File Browser                        |
 | `R`    | Open iTerm2             | Great terminal for osx (`Run`)                  |
 | `⌘R`   | Open Preview            | Switch to opened picture, pdf, etc...           |
 | `T`    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
 | `⌘T`   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| `⌘D`   | Open Dictionary         | Find words                                      |
+| `⌘D` | Open Dictionary | Find words |
 | `⌘F`   | Open Dash               | Find API Document                               |
-| `F`    | Open Alfred             | Leaves to `⌃⌥⇧⌘F`                               |
+| `F` | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
+| `⌘D`  | Open Dictionary         | Find words                                      |
 | `G`    | Open Intellij IDEA      | Open IDE                                        |
 | `⌘G`   | Open Chrome             | Google Chrome                                   |
 
@@ -241,6 +242,25 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `/` Slash              | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
 | `\` Backslash          | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
 | `␢` Spacebar           | `⌃␢`  Ctrl+Spacebar | Switch Input Source                            |
+
+### This is Change
+
+* d -> dingding
+* f -> idea
+* g -> chrome
+* y -> NeteaseMusic
+* b -> Youdao Note
+* t -> SourceTree
+* v -> Navicat for MySQL
+* e -> iTerm
+* e + shift -> Worktile
+* d + shift -> MWeb
+* r -> Paw 
+* c -> Sublime Text
+* z -> Microsoft OneNote
+* x -> Finder
+
+
 
 
 
