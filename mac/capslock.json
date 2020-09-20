@@ -1,9 +1,9 @@
 {
-  "title": "Capslock Enhancement",
-  "author": "Vonng(fengruohang@outlook.com)",
-  "homepage": "https://github.com/Vonng/Capslock",
+  "title": "Capslock Hyper",
+  "author": "haixiang7c6",
+  "homepage": "https://github.com/haixiang7c6/Capslock",
   "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-  "manual": "https://github.com/Vonng/Capslock/tree/master/mac",
+  "manual": "https://github.com/haixiang7c6/Capslock/tree/master/mac",
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/haixiang7c6/Capslock/master/mac/capslock.json",
   "rules": [
     {
