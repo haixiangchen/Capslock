@@ -2520,10 +2520,7 @@
           },
           "to": [
             {
-              "key_code": "1",
-              "modifiers": [
-                "left_shift"
-              ]
+               "key_code": "equal_sign"
             }
           ],
           "type": "basic"
@@ -2542,7 +2539,10 @@
           },
           "to": [
             {
-              "key_code": "equal_sign"
+              "key_code": "1",
+              "modifiers": [
+                "left_shift"
+              ]
             }
           ],
           "type": "basic"
