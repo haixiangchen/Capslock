@@ -1397,6 +1397,25 @@
             "key_code": "r",
             "modifiers": {
               "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "shell_command": "open -a 'Reminders'"
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "r",
+            "modifiers": {
+              "mandatory": [
                 "left_command",
                 "right_command",
                 "right_control",
@@ -1408,25 +1427,6 @@
           "to": [
             {
               "shell_command": "open -a 'Notes'"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "r",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'Reminders'"
             }
           ],
           "type": "basic"
@@ -1563,6 +1563,26 @@
           "to": [
             {
               "shell_command": "open -a 'Google Chrome'"
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "g",
+            "modifiers": {
+              "mandatory": [
+                "left_command",
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "shell_command": "open -a 'Sourcetree'"
             }
           ],
           "type": "basic"
