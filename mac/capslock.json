@@ -1375,26 +1375,6 @@
         },
         {
           "from": {
-            "key_code": "c",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'Sequel Pro'"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
             "key_code": "e",
             "modifiers": {
               "mandatory": [
@@ -1427,7 +1407,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a '备忘录'"
+              "shell_command": "open -a 'Notes'"
             }
           ],
           "type": "basic"
@@ -1507,25 +1487,6 @@
           "to": [
             {
               "shell_command": "open -a 'NeteaseMusic'"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "z",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'Notes.app'"
             }
           ],
           "type": "basic"
