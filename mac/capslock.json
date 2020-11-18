@@ -1867,6 +1867,26 @@
         },
         {
           "from": {
+            "key_code": "hyphen",
+            "modifiers": {
+              "mandatory": [
+                 "left_command",
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "f11"
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
             "key_code": "f11",
             "modifiers": {
               "mandatory": [
