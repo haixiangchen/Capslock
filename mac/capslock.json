@@ -1380,28 +1380,6 @@
             }
           ],
           "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "d",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "key_code": "d",
-              "modifiers": [
-                "left_control"
-              ]
-            }
-          ],
-          "type": "basic"
         }
       ]
     },
@@ -1432,7 +1410,7 @@
             "key_code": "b",
             "modifiers": {
               "mandatory": [
-                "left_shift",
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -1471,7 +1449,7 @@
             "key_code": "c",
             "modifiers": {
               "mandatory": [
-                "left_shift",
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -1481,7 +1459,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'SecureCRT'"
+              "shell_command": "open -a 'Sequel Pro'"
             }
           ],
           "type": "basic"
@@ -1510,7 +1488,7 @@
             "key_code": "r",
             "modifiers": {
               "mandatory": [
-                "left_shift",
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -1606,26 +1584,6 @@
         },
         {
           "from": {
-            "key_code": "y",
-            "modifiers": {
-              "mandatory": [
-                "left_shift",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a '网易有道词典'"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
             "key_code": "z",
             "modifiers": {
               "mandatory": [
@@ -1695,7 +1653,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'DingTalk'"
+              "shell_command": "open -a '网易有道词典'"
             }
           ],
           "type": "basic"
