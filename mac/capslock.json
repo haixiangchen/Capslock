@@ -1635,7 +1635,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a '网易有道词典'"
+              "shell_command": "open -a '百度翻译'"
             }
           ],
           "type": "basic"
