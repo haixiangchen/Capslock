@@ -1412,7 +1412,6 @@
             "key_code": "b",
             "modifiers": {
               "mandatory": [
-                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -1432,6 +1431,7 @@
             "key_code": "b",
             "modifiers": {
               "mandatory": [
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
