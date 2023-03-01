@@ -41,7 +41,7 @@
 2. Copy URL to your browser to import configuration script.
 
 ```bash
-# This Repo (open in safari)
+# This Repo (推荐)
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/haixiang7c6/Capslock/master/mac/capslock.json
 ```
 
