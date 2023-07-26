@@ -1475,7 +1475,6 @@
             "key_code": "c",
             "modifiers": {
               "mandatory": [
-                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -1492,7 +1491,7 @@
         },
         {
           "from": {
-            "key_code": "c",
+            "key_code": "f",
             "modifiers": {
               "mandatory": [
                 "right_command",
@@ -1648,7 +1647,7 @@
         },
         {
           "from": {
-            "key_code": "f",
+            "key_code": "i",
             "modifiers": {
               "mandatory": [
                 "right_command",
