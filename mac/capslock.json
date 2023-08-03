@@ -1503,7 +1503,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'cursor'"
+              "shell_command": "open -a 'IntelliJ IDEA'"
             }
           ],
           "type": "basic"
@@ -1641,25 +1641,6 @@
           "to": [
             {
               "shell_command": "open -a 'SQLPro Studio'"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "i",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'IntelliJ IDEA'"
             }
           ],
           "type": "basic"
