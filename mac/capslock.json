@@ -785,9 +785,10 @@
         },
         {
           "from": {
-            "key_code": "i",
+            "key_code": "u",
             "modifiers": {
               "mandatory": [
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -850,9 +851,10 @@
         },
         {
           "from": {
-            "key_code": "o",
+            "key_code": "p",
             "modifiers": {
               "mandatory": [
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
